@@ -49,7 +49,7 @@ export default function Navbar({ onSearch }) {
                   <img src={search} alt="search" />
                 </button>
               </form>
-              <a href="https://admin-bsk-ecommerce.vercel.app/">
+              <a href="https://admin-bsk-store.vercel.app/">
                 <button
                   type="button"
                   className="text-white text-xl font-graphik px-6 bg-black transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 focus:ring-grey-300 focus:ring-grey-300 font-medium rounded-full py-3 text-center"
